@@ -1,0 +1,4 @@
+hello
+This is a file I have created
+I can read, write code and play basketball.
+out of these 4 one is a lie.
